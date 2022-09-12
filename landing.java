@@ -3,9 +3,11 @@ import java.util.Scanner;
 public class landing {
     
  public void log_in(){
-    System.out.println(" Powered by =District=");
+    System.out.println(" Powered by ==District==");
     System.out.print(" which view do you wish to see?(Student/Staff):");
+
     Scanner Sc= new Scanner(System.in);
+    
     String extraOrder=Sc.next();
     if(extraOrder.equalsIgnoreCase("Student"))
     {        student_pricing StudentOrder1= new student_pricing();
