@@ -17,18 +17,18 @@ Scanner Sc= new Scanner(System.in);
 
 public void display(){
     System.out.println("-------------------Welcome To Edibles---------------------------");
-    System.out.println("-------Order your lunch conviniently from anywhere in TUK-------");
+    System.out.println("-------Order your lunch conveniently from anywhere in TUK-------");
     System.out.println("--------Here's our Menu---------");
     System.out.println("-----------------------------------------------------------------");
     System.out.println(" What do you feel like ordering today??");
-    System.out.println("                     Student pricing      Staff Pricing");
-    System.out.println("          1.Ugali Beef     120/=                   170/=");
-    System.out.println("          2.Mchele Beef    120/=                   170/=");
-    System.out.println("          3.Chapo Beans     70/=                   120/=");
-    System.out.println("          4.Fries          100/=                   150/=");
-    System.out.println("          5.Ugali Fish     150/=                   200/=");
-    System.out.println("          6.Ugali Kuku     200/=                   250/=");
-    System.out.println("          7.Mchele Kuku     200/=                  250/=");
+    System.out.println("                     Student pricing      ");
+    System.out.println("          1.Ugali Beef     120/=                   ");
+    System.out.println("          2.Mchele Beef    120/=                   ");
+    System.out.println("          3.Chapo Beans     70/=                   ");
+    System.out.println("          4.Fries          100/=                   ");
+    System.out.println("          5.Ugali Fish     150/=                   ");
+    System.out.println("          6.Ugali Kuku     200/=                   ");
+    System.out.println("          7.Mchele Kuku     200/=                  ");
     System.out.println("          8.Exit                ");
     System.out.println("-----------------------------------------------------------------");
     System.out.println(" What do you feel like ordering today??");
